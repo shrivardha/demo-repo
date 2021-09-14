@@ -1,7 +1,7 @@
 # demo
 A try at git github. 
-Description about git github.
-It's good.
+Description about git github!.
+It's good!!.
 
 
 
